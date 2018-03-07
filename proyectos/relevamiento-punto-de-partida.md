@@ -38,7 +38,7 @@ Para relevar el punto de partida de los alumnos se pueden proponer situaciones d
 
 Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apunta a relevar el uso regla y medición a partir de la construcción de horarios y tablas. El otro ara relevar el punto de partida en el campo de las operaciones con dobles, triples y cuadruples.
 
-### Horarios registros
+### Horarios registros {#asistencia}
 
 * Confección de [horario]({{site.baseurl}}/modules/cronogramas/horario/) a partir de instrucciones
   * Se evaluará si las instrucciones serán:
