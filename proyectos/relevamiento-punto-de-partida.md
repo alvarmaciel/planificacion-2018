@@ -52,9 +52,9 @@ Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apun
 
 ![Ejemplo](http://www.thecosmicroad.com/wp-content/uploads/2017/01/Habit-Tracker-A5.png)
 
-### Juego duplica triplica y cuadriplica. Con dados.
+### Juego duplica triplica y cuadriplica. Con dados. {#juego-dobles}
 
 [Ver juego en Relaciones Múltiples. Serie Piedra Libre](https://www.educ.ar/recursos/117989/relaciones-multiples?coleccion=118471)
 
-
+![](/assets/tableroDobles.jpg)
 
