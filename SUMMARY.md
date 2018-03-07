@@ -10,6 +10,7 @@
   * [Horario](cronogramas/horario.md)
   * [Marzo](cronogramas/marzo.md)
 * [Proyectos](proyectos.md)
+  * [Relevamiento punto de partida](proyectos/relevamiento-punto-de-partida.md)
 * [Recursos](recursos.md)
   * [Datos de libros](recursos/datos-de-libros.md)
 
