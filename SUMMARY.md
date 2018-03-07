@@ -1,8 +1,8 @@
 # Summary
 
 * [Introducción](README.md)
-* [Contenidos](chapter1.md)
-  * [Prácticas del Lenguaje](chapter1/practicas-del-lenguaje.md)
+* [Contenidos](contenidos.md)
+  * [Prácticas del Lenguaje](contenidos/practicas-del-lenguaje.md)
   * [Matemáticas](chapter1/matematicas.md)
   * [Ciencias Sociales](chapter1/ciencias-sociales.md)
   * [Ciencias Naturales](chapter1/ciencias-naturales.md)
