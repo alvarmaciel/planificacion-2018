@@ -1,2 +1,21 @@
-a
+## Semana 2: 5 al 9
 
+|Hora|Lunes                    |Martes                     |Miércoles                  |Jueves                  |Viernes                  |
+|:--:|:------------------------|:--------------------------|:--------------------------|:---------------------  |:------------------------|
+|1   |~~**Música**~~ PARO      |~~Cs~~ PARO                |**Inglés**                 |[rel. mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#juego-duplica-triplica-y-cuadriplica-con-dados)|#8M                    |
+|2   |~~PDL~~ PARO             |~~**Educ. Física**~~ PARO  |Registro personal          |**Educ. Física**        |**Inglés**               |
+|3   |~~PDL~~ PARO             |~~Cs~~ PARO                |[Ficha Lectora]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|[rel. mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#juego-duplica-triplica-y-cuadriplica-con-dados)|**Técnología**           |
+|4   |~~Mate~~ PARO            |~~**Plástica**~~ PARO      |[Ficha Lectora]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|[rel. mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#juego-duplica-triplica-y-cuadriplica-con-dados)|#8M                       |
+|5   |~~Mate~~ PARO            |~~Cs~~ PARO                |[rel. mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#juego-duplica-triplica-y-cuadriplica-con-dados)|#8M                  |#8M                       |
+|6   |~~Mate~~ PARO            |~~PDL r~~ PARO             |[rel. mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#juego-duplica-triplica-y-cuadriplica-con-dados)|#8M                  |#8M                       |
+
+## Semana 1: 1 al 2
+
+|Hora|Lunes                    |Martes                     |Miércoles                  |Jueves                  |Viernes                  |
+|:--:|:------------------------|:--------------------------|:--------------------------|:---------------------  |:------------------------|
+|1   |**Música**               |Cs                         |**Inglés**                 |[Intro. Horario]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)          |[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|
+|2   |PDL                      |**Educ. Física**           |PDL pr                     |**Educ. Física**        |**Inglés**|
+|3   |PDL                      |Cs                         |PDL pr                     |[Horario]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)                 |**Técnología**|
+|4   |Mate                     |**Plástica**               |PDL pr                     |[Asistencia]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)              |~~[Juegos dobles Mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)~~[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|
+|5   |Mate                     |Cs                         |Mate G                     |~~[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)~~ [Asistencia]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)         |~~[Juegos dobles Mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)~~[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|
+|6   |Mate                     |PDL r                      |Mate G                     |~~[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)~~ [Asistencia]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)         |~~[Juegos dobles Mate]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#horarios-registros-y-juegos-dobles)~~[Ficha Lectora 1]({{site.baseurl}}/modules/proyectos/relevamiento-punto-de-partida/#ficha-lectora-cuadernillo-de-5to-grado)|
