@@ -1,3 +1,14 @@
+## Semana 3: 12 al 16
+
+| Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+| 5 |  |  |  |  |  |
+| 6 |  |  |  |  |  |
+
 ## Semana 2: 5 al 9
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
