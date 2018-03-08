@@ -13,12 +13,12 @@
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | ~~**Música**~~ PARO | ~~Cs~~ PARO | **Inglés** | [\#8M]()/proyectos/8M.md | [\#8M]()/proyectos/8M.md |
+| 1 | ~~**Música**~~ PARO | ~~Cs~~ PARO | **Inglés** | [\#8M](/proyectos/8M.md) | [\#8M](/proyectos/8M.md) |
 | 2 | ~~PDL~~ PARO | ~~**Educ. Física**~~ PARO | Registro personal | **Educ. Física** | **Inglés** |
-| 3 | ~~PDL~~ PARO | ~~Cs~~ PARO | [Ficha Lectora](/proyectos/relevamiento-punto-de-partida.md#ficha-lectora) | [\#8M]()/proyectos/8M.md | **Técnología** |
-| 4 | ~~Mate~~ PARO | ~~**Plástica**~~ PARO | [Ficha Lectora](/proyectos/relevamiento-punto-de-partida.md#ficha-lectora) | [\#8M]()/proyectos/8M.md | [\#8M]()/proyectos/8M.md |
-| 5 | ~~Mate~~ PARO | ~~Cs~~ PARO | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M]()/proyectos/8M.md |
-| 6 | ~~Mate~~ PARO | ~~PDL r~~ PARO | [JuegosDobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M]()/proyectos/8M.md |
+| 3 | ~~PDL~~ PARO | ~~Cs~~ PARO | [Ficha Lectora](/proyectos/relevamiento-punto-de-partida.md#ficha-lectora) | [\#8M](/proyectos/8M.md) | **Técnología** |
+| 4 | ~~Mate~~ PARO | ~~**Plástica**~~ PARO | [Ficha Lectora](/proyectos/relevamiento-punto-de-partida.md#ficha-lectora) | [\#8M](/proyectos/8M.md) | [\#8M](/proyectos/8M.md) |
+| 5 | ~~Mate~~ PARO | ~~Cs~~ PARO | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M](/proyectos/8M.md) |
+| 6 | ~~Mate~~ PARO | ~~PDL r~~ PARO | [JuegosDobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M](/proyectos/8M.md) |
 
 ## Semana 1: 1 al 2
 
