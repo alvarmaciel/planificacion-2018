@@ -6,14 +6,14 @@ Selección de algunos cuentos que le gustan al profe ^_^
 
 |Tapa|Datos|
 |:--:|:--|
-|![]/assets/libros/saki1.jpg)|**Animales más que animales** <br/> Saki<br/>Editorial: Nueva Edición<br/>|
+|![]/assets/libros/saki1.jpg)|**La ventana abierta** en **Animales más que animales** <br/> Saki<br/>Editorial: Nueva Edición<br/>|
 
 
 ### Verde
 
 |Tapa|Datos|
 |:--:|:--|
-|![]/assets/libros/sucedio.jpg)|**Verde** en **Sucedió en colores**<br/>Liliana Bodoc<br/>ilustraciones: Carolina Farías<br/>Editorial: Alfaguara|
+|![]/assets/libros/sucedio.jpg)|**Rojo** en **Sucedió en colores**<br/>Liliana Bodoc<br/>ilustraciones: Carolina Farías<br/>Editorial: Alfaguara|
 
 
 ### Rojo
