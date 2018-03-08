@@ -11,6 +11,6 @@
   * [Marzo](cronogramas/marzo.md)
 * [Proyectos](proyectos.md)
   * [Relevamiento punto de partida](proyectos/relevamiento-punto-de-partida.md)
+  * [\#8M](proyectos/8M.md))
 * [Recursos](recursos.md)
   * [Datos de libros](recursos/datos-de-libros.md)
-

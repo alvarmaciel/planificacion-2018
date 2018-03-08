@@ -1,3 +1,4 @@
+# Planificaciones: Grado de Aceleración 2018 5°/6°
 >"La tecnología está disponible para desarrollar independencia y aprendizajes o burocracia y enseñanza"
 >--- En Sociedad desescolarizada (1971), Ivan Illich
 
