@@ -11,7 +11,7 @@ Para relevar el punto de partida de los alumnos se pueden proponer situaciones d
 
 * Completar una ficha con información de cuentos que hayan leído el año anterior.
 
-[Títulos]({{site.baseurl}}/modules/recursos/datos-de-libros/)
+[Títulos](/recursos/datos-de-libros/)
 
 * Título:
 * Autor:
@@ -40,7 +40,7 @@ Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apun
 
 ### Horarios registros {#asistencia}
 
-* Confección de [horario]({{site.baseurl}}/modules/cronogramas/horario/) a partir de instrucciones
+* Confección de [horario](/cronogramas/horario/) a partir de instrucciones
   * Se evaluará si las instrucciones serán:
   * [ ] gráficas o
   * [ ] textuales
@@ -57,4 +57,3 @@ Se harán dos tipos de aproximaciones para relevar el punto de partida. Una apun
 [Ver juego en Relaciones Múltiples. Serie Piedra Libre](https://www.educ.ar/recursos/117989/relaciones-multiples?coleccion=118471)
 
 ![](/assets/tableroDobles.jpg)
-
