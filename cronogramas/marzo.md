@@ -1,15 +1,15 @@
-## Semana 3: 12 al 16
+## Semana 1: 12 al 16
 
-| Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
-| :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
+|Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
+|:---:|:----:|:-----:|:-------:|:------:|:------:|
+|1|**Música**|Fuerzas|**Inglés**|Juegos dobles|Peter Pan|
+|2|Lectura de **Rojo** |**Educ. Física**|Peter Pan|**Educ. Física**|**Inglés**|
+|3|Lectura de **Rojo**|Fuerzas|Peter Pan|Juegos dobles|**Técnología**|
+|4|Juegos dobles |**Plástica**|Peter Pan|Juegos dobles|Fuerzas|
+|5|Juegos dobles |Fuerzas|Cuadriláteros|Peter Pan|Fuerzas|
+|6|Juegos dobles |Reflexión sobre el lenguaje|Cuadriláteros|Peter Pan|Fuerzas|
 
-## Semana 2: 5 al 9
+## Semana 0: 5 al 9
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@
 | 5 | ~~Mate~~ PARO | ~~Cs~~ PARO | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M](/proyectos/8M.md) |
 | 6 | ~~Mate~~ PARO | ~~PDL r~~ PARO | [JuegosDobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [Juegos Dobles](/proyectos/relevamiento-punto-de-partida.md#juego-dobles) | [\#8M](/proyectos/8M.md) |
 
-## Semana 1: 1 al 2
+## Semana inicio : 1 al 2
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :--- | :--- | :--- | :--- | :--- |
